@@ -8,16 +8,16 @@ Folder Structure
 ```
 .
 |----Stage1
-|		|--- scratcheasy.py
-|		|--- scratchhard.py
+|	|--- scratcheasy.py
+|	|--- scratchhard.py
 |
 |
 |----Stage2
-		|--- main.py
-		|--- handler.py
-		|--- data
-			  |--- testtraindata
-			  			|--- test.csv
-			  			|--- train.csv
+	|--- main.py
+	|--- handler.py
+	|--- data
+	  |--- testtraindata
+	 	|--- test.csv
+	  	|--- train.csv
 
 ```
