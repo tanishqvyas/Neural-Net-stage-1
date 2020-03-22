@@ -16,8 +16,8 @@ Folder Structure
 	|--- main.py
 	|--- handler.py
 	|--- data
-	  |--- testtraindata
-	 	|--- test.csv
-	  	|--- train.csv
+		  |--- testtraindata
+	 			|--- test.csv
+	  			|--- train.csv
 
 ```
