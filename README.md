@@ -5,7 +5,7 @@
 Dataset Link : https://www.kaggle.com/kazanova/sentiment140
 
 Folder Structure
-
+```
 .
 |----Stage1
 |		|--- scratcheasy.py
@@ -20,3 +20,4 @@ Folder Structure
 			  			|--- test.csv
 			  			|--- train.csv
 
+```
